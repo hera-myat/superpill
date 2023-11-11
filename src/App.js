@@ -7,7 +7,6 @@ import { nutrition } from './components/nutrition';
 import { cognitive } from './components/cognitive';
 import { scienceBacked } from './components/scienceBacked';
 import { useState } from 'react';
-import spaceBackground from './spaceBackground.gif';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -46,7 +45,6 @@ function App() {
               1000
             ]}
             style={{ fontSize: '1.5em', display: 'inline-block' }}
-            repeat={Infinity}
           />
       </header>
       {/*PLACE REST OF PAGE HERE*/ }
