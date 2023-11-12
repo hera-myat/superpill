@@ -4,7 +4,8 @@ We decided to make a single page application in React.js with an interactive but
 
 # How to View
 In order to view this website, you must host it locally. 
-Do:
+
+In your terminal:
 git clone https://github.com/Mohpann/astropills.git
 cd astropills
 npm start
