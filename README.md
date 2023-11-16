@@ -13,3 +13,4 @@ npm start<br />
 If you encounter an error like "react-scripts is not recognized", you likely are missing scripts in your node_modules/ directory. <br />
 Try:<br />
 npm install react-scripts --save
+# superpill
