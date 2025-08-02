@@ -7,10 +7,14 @@ We created a single-page React.js application featuring an interactive button-ba
 # 🚀 How To View Locally 
 
 git clone https://github.com/Mohpann/astropills.git
+
 cd astropills
+
 npm install
+
 npm start
 
 ⚠️ Troubleshooting:
 If you encounter an error like 'react-scripts' is not recognized as an internal or external command, you may be missing some dependencies in your node_modules/ directory.
+
 npm install react-scripts --save
