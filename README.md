@@ -1,15 +1,16 @@
-# Uncommon Hacks UChicago
-This was developed at Uncommon Hacks Makes at the University of Chicago on 11/11/23. Our prompt was to come up with a future food system for astronauts (collab with alt protein subject) and figure out how to make astronauts excited about it.
-We decided to make a single page application in React.js with an interactive button game at the end to demonstrate learned knowledge from the React.js workshop seminared during the hackathon. 
+# 👾 Uncommon Hacks UChicago
 
-# How to View
-In order to view this website, you must host it locally. 
-<br />
-In your terminal:<br />
-git clone https://github.com/Mohpann/astropills.git<br />
-cd astropills<br />
-npm start<br />
+This project was developed at Uncommon Hacks Makes, held at the University of Chicago on 11/11/23. Our challenge was to envision a future food system for astronauts—focusing on alternative proteins—and find creative ways to make astronauts excited about it.
 
-If you encounter an error like "react-scripts is not recognized", you likely are missing scripts in your node_modules/ directory. <br />
-Try:<br />
+We created a single-page React.js application featuring an interactive button-based game. This not only showcased our concept but also applied skills learned during a React.js workshop at the hackathon.
+
+# 🚀 How To View Locally 
+
+git clone https://github.com/Mohpann/astropills.git
+cd astropills
+npm install
+npm start
+
+⚠️ Troubleshooting:
+If you encounter an error like 'react-scripts' is not recognized as an internal or external command, you may be missing some dependencies in your node_modules/ directory.
 npm install react-scripts --save
